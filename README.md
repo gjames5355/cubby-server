@@ -2,8 +2,8 @@
 
 This is the backend code for Cubby, a household inventory tracker by **Garrett James**.
 
-- [Link to Live App]()
-- [Link to Client Repo]()
+- [Link to Live App](https://cubby-drab.vercel.app/)
+- [Link to Client Repo](https://github.com/gjames5355/cubby-client)
 
 ## API Endpoints
 
