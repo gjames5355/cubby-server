@@ -1,9 +1,9 @@
-# Getsu (Server)
+# Cubby (Server)
 
-This is the backend code for Getsu, a household inventory tracker by **Kevin Wei**.
+This is the backend code for Cubby, a household inventory tracker by **Garrett James**.
 
-- [Link to Live App](https://getsu-client.kevinwei.now.sh/)
-- [Link to Client Repo](https://github.com/kevinwei00/getsu-client)
+- [Link to Live App]()
+- [Link to Client Repo]()
 
 ## API Endpoints
 
